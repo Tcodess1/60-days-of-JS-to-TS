@@ -33,6 +33,6 @@ function findAverage(numbers) {
 
 const nums = [12, 5, 88, 3, 45, 88, -7];
 
-console.log(findMax(nums));     // 88
-console.log(findMin(nums));     // -7
-console.log(findAverage(nums)); // 20.571428571428573
+console.log(findMax(nums));
+console.log(findMin(nums));
+console.log(findAverage(nums));
